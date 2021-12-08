@@ -79,3 +79,6 @@ Once logged in, you can now add more movies or delete a few. You can also add ad
 
 ### 7. How to handle error messages
 Handling errors are very simple and straightforward. Try-catch blocks have been inserted as needed and dedicated popup dialogs will open with an error message relating to the specific error.
+
+## Authors
+- [Christiaan Venter](https://www.github.com/codecventer)
