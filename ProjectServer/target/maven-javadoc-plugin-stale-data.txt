@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/USER/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/9.4.0.jre11/mssql-jdbc-9.4.0.jre11.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/USER/Documents/NetBeansProjects/ProjectServer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USER/Documents/NetBeansProjects/ProjectServer/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProjectServer 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/USER/Documents/NetBeansProjects/ProjectServer/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProjectServer 1.0-SNAPSHOT API'
+com.mycompany.projectserver
+'C:/Users/USER/Documents/NetBeansProjects/ProjectServer/src/main/java/com/mycompany/projectserver/ServerFrame.java'
+C:\Users\USER\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\9.4.0.jre11\mssql-jdbc-9.4.0.jre11.jar = 1638810935892
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\src\main\java = 1638814609506
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\allclasses-index.html = 1638814795057
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\allclasses.html = 1638814795104
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\allpackages-index.html = 1638814795073
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\constant-values.html = 1638814794948
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\deprecated-list.html = 1638814795073
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\element-list = 1638814794870
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\help-doc.html = 1638814795120
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\index-all.html = 1638814795057
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\index.html = 1638814795120
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\member-search-index.js = 1638814795057
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\member-search-index.zip = 1638814795057
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\overview-tree.html = 1638814794995
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\package-search-index.js = 1638814795010
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\package-search-index.zip = 1638814795042
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\script.js = 1638814795135
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\search.js = 1638814795135
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\serialized-form.html = 1638814794979
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\stylesheet.css = 1638814795120
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\type-search-index.js = 1638814795057
+C:\Users\USER\Documents\NetBeansProjects\ProjectServer\target\apidocs\type-search-index.zip = 1638814795057
