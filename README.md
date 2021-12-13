@@ -45,7 +45,7 @@ Make sure that the genreId already exists before entering a value. You need to b
 The data in the user table can be inserted into your database manually. You do not need to insert, update or delete the data in this table as it will only be used to check if an administrator has entered the correct user name and password.
 
 ### 2. Description of Program
-This application is designed to handle requests from a user when wanting to query a movie title or genre. Administrators of the application can also add and remove movies from the database and can also stop or start the server that handles all the client requests.
+This application was created using NetBeans and is designed to handle requests from a user when wanting to query a movie title or genre. Administrators of the application can also add and remove movies from the database and can also stop or start the server that handles all the client requests.
 
 The server application is designed to handle multiple clients and requests simultaneously and requires administrators to login before being able to stop or start the server.
 
@@ -63,7 +63,7 @@ From inside the 'Database Files' folder, you can simply run the script file 'Mov
 - Step 2:
 From inside the 'Project Files' folder, navigate to the ProjectServer.java class. Ensure to insert your own MS SQL Server username and password. Currently it is set to 'user' and 'password' respectively. Also change these credentials from inside the AdminFrame.java class.
 - Step 3:
-Press F11 on your keyboard to build the project. Do this for both ProjectServer and ProjectClient applications. 
+Using NetBeans, press F11 on your keyboard to build the project. Do this for both ProjectServer and ProjectClient applications. 
 
 ### 6. How to run program
 - Step 1:
